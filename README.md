@@ -22,7 +22,7 @@ Xovix AI empowers organizations to build, deploy, and monitor intelligent AI wor
 - **Icons**: Lucide React
 - **Animations**: Framer Motion
 
-## � Getting Started
+## 🚀 Getting Started
 
 1. **Clone the repository**:
    ```bash
@@ -55,7 +55,17 @@ This project is designed to be a "public view and usage template." To use it for
 3. Extend the `AutomationEngine` in `lib/automation/engine.ts` with your custom logic.
 4. Add new node types in `components/automation/whiteboard.tsx`.
 
-## �👨‍💻 Development
+## 🚀 Vercel Deployment
+
+This project is optimized for deployment on **Vercel**.
+
+1. **Connect your GitHub Repository** to Vercel.
+2. **Environment Variables**: Add the variables defined in `.env.example` to your Vercel project settings.
+3. **Build Command**: `npm run build`
+4. **Install Command**: `npm install --legacy-peer-deps` (Already configured in `vercel.json`).
+5. **Framework Preset**: Next.js.
+
+## 👨‍💻 Development
 
 This platform was meticulously designed and developed by **Alfred**.
 
